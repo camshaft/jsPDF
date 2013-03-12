@@ -1,0 +1,21 @@
+{
+  "name": "jsPDF",
+  "repo": "CamShaft/jsPDF",
+  "description": "Generate PDF files in JavaScript",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "ForbesLindesay/base64": "*",
+    "component/object": "*",
+    "component/emitter": "*",
+    "component/type": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "lib/jspdf.js",
+    "lib/page-formats.js",
+    "lib/cap-join-styles.js"
+  ]
+}
